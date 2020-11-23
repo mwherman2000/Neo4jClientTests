@@ -1,0 +1,8 @@
+C:\Users\mwher\source\repos\Neo4jHelloWorld\Neo4jHelloWorld\bin\Debug\Neo4jHelloWorld.exe.config
+C:\Users\mwher\source\repos\Neo4jHelloWorld\Neo4jHelloWorld\bin\Debug\Neo4jHelloWorld.exe
+C:\Users\mwher\source\repos\Neo4jHelloWorld\Neo4jHelloWorld\bin\Debug\Neo4jHelloWorld.pdb
+C:\Users\mwher\source\repos\Neo4jHelloWorld\Neo4jHelloWorld\bin\Debug\Neo4j.Driver.dll
+C:\Users\mwher\source\repos\Neo4jHelloWorld\Neo4jHelloWorld\obj\Debug\Neo4jHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\mwher\source\repos\Neo4jHelloWorld\Neo4jHelloWorld\obj\Debug\Neo4jHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\mwher\source\repos\Neo4jHelloWorld\Neo4jHelloWorld\obj\Debug\Neo4jHelloWorld.exe
+C:\Users\mwher\source\repos\Neo4jHelloWorld\Neo4jHelloWorld\obj\Debug\Neo4jHelloWorld.pdb
